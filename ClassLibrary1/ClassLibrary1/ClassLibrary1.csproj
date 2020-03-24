@@ -119,9 +119,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\RepositoryCreateModel.cs" />
+    <Compile Include="Models\RepositoryModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\GithubReposApi.cs" />
+    <Compile Include="Steps\GithubReposApiSteps.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Features\Github Repos Api.feature" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />

@@ -102,7 +102,6 @@ C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\bin
 C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\bin\Debug\TechTalk.SpecFlow.xml
 C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
 C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\bin\Debug\Utf8Json.xml
-C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
 C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
 C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Vladyslav_Hanoshenko\Desktop\VS Boosted\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
