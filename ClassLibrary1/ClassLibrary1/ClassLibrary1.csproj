@@ -119,25 +119,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\ContentsModel.cs" />
-    <Compile Include="Models\CreatedFileModel.cs" />
-    <Compile Include="Models\CreatedRepositoryModel.cs" />
-    <Compile Include="Models\CreateRepositoryModel.cs" />
-    <Compile Include="Models\FileContentModel.cs" />
-    <Compile Include="Models\FolderContentModel.cs" />
-    <Compile Include="Models\PermissionsModel.cs" />
-    <Compile Include="Models\RepositoryModel.cs" />
-    <Compile Include="Models\RepositoryOwnerModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\GithubContentsApi.cs" />
-    <Compile Include="Services\GithubReposApi.cs" />
-    <Compile Include="Services\WebClientRestBase.cs" />
-    <Compile Include="Steps\GithubContentsApiSteps.cs" />
-    <Compile Include="Steps\GithubReposApiSteps.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Features\Github Contents API.feature" />
-    <None Include="Features\Github Repos Api.feature" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
